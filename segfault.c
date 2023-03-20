@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-//const int a=10;  // const pointer to non-const
+//const int a=10;
 //char name[]="clang";
 //char* name="clang";
 int main(){
